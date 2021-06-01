@@ -1,0 +1,26 @@
+main {
+    padding: 50px;
+}
+form {
+    width: 40%;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 15px;
+    color: black;
+    background-color:  #9DA65D;
+}
+
+fieldset {
+    border: 0;
+}
+
+fieldset > label {
+    margin-bottom: 5px;
+    display: block;
+}
+fieldset > input {
+    height: 25px;
+    }
+.input-form {
+    width: 100%;
+    }
