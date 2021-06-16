@@ -1,0 +1,25 @@
+main {
+    padding: 50px;
+    text-align: center;
+}
+.item-portifolio {
+    display: inline-block;
+    background-color: #9DA65D;
+    border: 1px solid #6C733D;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+.item-portifolio:hover {
+    box-shadow: 1px 1px 2px #6C733D ;
+    opacity: 0.9;
+    cursor: pointer;
+}
+.item-portifolio > img {
+    width: 100%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.item-portifolio > p {
+    padding: 5px;
+    color: black;
+}
